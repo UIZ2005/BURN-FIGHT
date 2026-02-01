@@ -66,7 +66,7 @@ Este proyecto fue desarrollado como un **advergame (videojuego publicitario)** c
 _Agrega aquí imágenes del gameplay_
 
 ![Screenshot 1](Burn/Assets/imagenescanvas/ranking.png)
-![Screenshot 2](Burn/Assets/imagenescanvas/puntaje.pngg)
+![Screenshot 2](Burn/Assets/imagenescanvas/puntaje.png)
 
 ---
 
